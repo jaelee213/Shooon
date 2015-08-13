@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shooon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ShoonSignInText">Sign In</string>
+    <string name="ShoonLogInText">LOG IN</string>
+</resources>
